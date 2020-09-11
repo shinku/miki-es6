@@ -29,11 +29,17 @@ window.onAnimationFrame=(e)=>{
     miki.render();
 }
 ShinTimeLine.addEventListener(ShinTimeEvent.FRAME,window.onAnimationFrame,window);
+//新建一个文本
 let txt=new textField();
+//文本内容为hello
 txt.text="hello";
 let text2= new textField();
+ //新建一个文本
 text2.text='shin';
+//文本内容为shin
 text2.y=50;
+//stage中增加两个文本元素
 stage.addChild(txt);
 stage.addChild(text2);
+//
 ```
