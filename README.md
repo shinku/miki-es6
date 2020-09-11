@@ -3,7 +3,8 @@
 
 可以先作为源码导入到工程项目，与工程一起打包
 
-具体使用方法
+更多内容可查看 [miki使用手册](https://github.com/shinku/miki-es6/wiki)
+使用方法
 ```javascript
 import {
 
@@ -43,3 +44,4 @@ stage.addChild(txt);
 stage.addChild(text2);
 //
 ```
+
