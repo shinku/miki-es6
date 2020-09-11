@@ -12,9 +12,7 @@ class H5resource extends ShinEventDispatcher
         this.percent=0;
         
     }
-    say(){
-      //console.log('this is s6')
-    }
+
     async load(){
         for(var i=0;i<this.textures.length;i++)
         {
