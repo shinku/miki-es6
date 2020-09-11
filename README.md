@@ -1,11 +1,4 @@
-# 🚀 Welcome to your new awesome project!
+## es6 开发的 2d webgl 游戏渲染引擎。
+目前还没有通过webpack 打包成单独的es6 模块。
 
-This project has been created using **webpack scaffold**, you can now run
-
-start by
-```
-yarn start
-or
-npm run start
-```
-to bundle your application
+可以先作为源码导入到工程项目，与工程一起打包
